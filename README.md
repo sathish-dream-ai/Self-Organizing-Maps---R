@@ -18,6 +18,7 @@ Features
 8. Variable influence plots
 9. Results export functionality
 
+
 Requirements
 
 1. kohonen
@@ -25,3 +26,19 @@ Requirements
 3. vtable
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Visualization analysis description about different plots in self organizing maps
+
+Codes plot 
+
+The codes plot shows normalized values of each variable within each node in the form of fan diagrams. The readability of the codes plot is a bit complex in our case as there are many variables.
+
+Counts plot
+
+The counts plot displays the approximate number of observations contained in each node. Usually we seek to have a Counts plot as homogeneous as possible.
+
+Variables influence plot
+
+The Variables influence plot or heatmaps show the normalized values of each variable within each node in the map.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
